@@ -1,0 +1,17 @@
+*{
+	background-color: #1de8b5
+}
+
+
+
+a{
+	color: #00b2cc
+	background-color:#cbc693;
+}
+
+a:hover{
+  transition-timing-function
+  transition-duration: 3s;
+  color: #fffff7
+}
+

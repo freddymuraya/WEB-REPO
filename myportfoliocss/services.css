@@ -1,0 +1,13 @@
+*{
+	background-color: #32cb00
+}
+
+a{
+	color: #0068bf
+}
+
+a:hover{
+  transition-timing-function:ease-out;
+  transition-duration: 3s;
+  color: #004d40
+}
