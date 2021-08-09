@@ -1,0 +1,38 @@
+*{
+	background-color: #82f7ff;
+}
+
+a{
+	color: #40c4ff;
+
+}
+
+a:hover{
+  transition-timing-function:ease-out;
+  transition-duration: 3s;
+  color: #0100ca;
+}
+
+.formContainer{
+	border-style:solid;
+	border-color:#40c4ff;;
+}
+
+input[type =button]{
+	color: black;
+	background-color:#40c4ff;
+	cursor: pointer;
+	border-style: solid;
+	border-color:#0100ca;
+}
+
+input[type=button]:hover{
+	transition-timing-function:ease-out;
+  transition-duration: 3s;
+  color: #0100ca;
+}
+
+img{
+	position: absolute;
+	right:8px;
+}

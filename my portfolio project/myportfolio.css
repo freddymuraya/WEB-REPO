@@ -1,0 +1,23 @@
+*{
+	background-color: #69007f;
+}
+
+a{
+	color: #cf5ce2;
+}
+
+a:hover{
+  transition-timing-function:ease-out;
+  transition-duration: 3s;
+  color: #fffff7;
+}
+
+.cards {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+}
+
+.card {
+    flex: 0 1 24%;
+}
